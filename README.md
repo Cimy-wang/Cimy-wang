@@ -21,6 +21,32 @@
 - [KNNRS](https://github.com/Cimy-wang/KNN-based-Representation-of-Superpixels-for-hyperspectral-image-classification)
 - [ASPCNet](https://github.com/Cimy-wang/Adaptive-Spatial-Pattern-Capsule-Public)
 
+<table>
+<tr>
+<th> ### Languages </th>
+<th> ### Tools </th>
+</tr>
+<tr>
+<td>
+
+```c++
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![MATLAB](https://img.shields.io/badge/-MATLAB-blue)
+```
+
+</td>
+<td>
+
+```c++
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) 
+![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
+![Latex](https://img.shields.io/badge/-latex-green)
+```
+
+</td>
+</tr>
+</table>
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
