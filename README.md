@@ -8,7 +8,11 @@
 - 🌱 Currently studing in Sen-Yat sen University, China.
 - 💬 Ask me about Matlab, Python and my projects on [jinping_wang@foxmail.com](mailto:jinping_wang@foxmail.com), [wangjp86@mail2.sysu.edu.cn](mailto:wangjp86@mail2.sysu.edu.cn)
 - ⚡ Fun fact: Data Analysis📊
-
+<p>
+  <img src="http://views.whatilearened.today/views/github/Cimy-wang/views.svg"/>
+  <a href="https://github.com/MrStanDu33/"><img src="https://img.shields.io/github/followers/MrStanDu33?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+  <a href="https://github.com/MrStanDu33?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+</p>
 ### 🛠 开源项目 
 
 - [KNNRS](https://github.com/Cimy-wang/KNN-based-Representation-of-Superpixels-for-hyperspectral-image-classification)
