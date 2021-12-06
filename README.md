@@ -5,8 +5,8 @@
 
 ### I'm Cimy Wang
 
-- ⭐️ An Information Processing Ph. D Student. & Major in Multi-modal Data Processing.
-- 🌱 Currently studing in Sen-Yat sen University, China.
+- ⭐️ {An Information Processing Ph. D Student. & Major in Multi-modal Data Processing.}
+- 🌱 {Currently studing in Sen-Yat sen University, China.}
 - 💬 Ask me about Matlab, Python and my projects on [jinping_wang@foxmail.com](mailto:jinping_wang@foxmail.com), [wangjp86@mail2.sysu.edu.cn](mailto:wangjp86@mail2.sysu.edu.cn)
 - ⚡ Pubilced List: [ORCID](https://orcid.org/0000-0002-4157-8605)
 
