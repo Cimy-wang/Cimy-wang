@@ -27,8 +27,9 @@
 
 ### Tools
 
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) 
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
+![Latex](https://img.shields.io/badge/-latex-green)
 
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
