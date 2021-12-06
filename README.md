@@ -21,25 +21,17 @@
 - [KNNRS](https://github.com/Cimy-wang/KNN-based-Representation-of-Superpixels-for-hyperspectral-image-classification)
 - [ASPCNet](https://github.com/Cimy-wang/Adaptive-Spatial-Pattern-Capsule-Public)
 
-# Rule 1
-Description for rule 1.
+<div class="row">
+  <div class="col-md-8" markdown="1">
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![MATLAB](https://img.shields.io/badge/-MATLAB-blue)
+  </div>
+  <div class="col-md-4" markdown="1">
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-        <h2>### Languages</h2>
-        <pre><code class="language-c">
-        ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-        ![MATLAB](https://img.shields.io/badge/-MATLAB-blue)
-}
-</code></pre>
-    </div>
-    <div style="display: inline-block;">
-        <h2>### Tools</h2>
-        <pre><code class="language-c">![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) 
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) 
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 ![Latex](https://img.shields.io/badge/-latex-green)
-</code></pre>
-    </div>
+  </div>
 </div>
 
 ### Languages
