@@ -28,7 +28,6 @@
 ![MATLAB](https://img.shields.io/badge/-MATLAB-blue)
   </div>
   <div class="col-md-4" markdown="1">
-
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) 
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 ![Latex](https://img.shields.io/badge/-latex-green)
