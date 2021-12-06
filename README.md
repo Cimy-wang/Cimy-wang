@@ -6,7 +6,7 @@
 
 - ⭐️ An Information Processing Ph. D Student. & Major in Multi-modal Data Processing.
 - 🌱 Currently studing in Sen-Yat sen University, China.
-- 💬 Ask me about Matlab, Python and my projects on [jinping_wang@foxmail.com(mailto:jinping_wang@foxmail.com), wangjp86@mail2.sysu.edu.cn(mailto:wangjp86@mail2.sysu.edu.cn)]
+- 💬 Ask me about Matlab, Python and my projects on [jinping_wang@foxmail.com](mailto:jinping_wang@foxmail.com), [wangjp86@mail2.sysu.edu.cn](mailto:wangjp86@mail2.sysu.edu.cn)
 - ⚡ Fun fact: Data Analysis📊
 
 ### 🛠 开源项目 
