@@ -1,6 +1,7 @@
 ## Hello! 👋
 ---
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### I'm Cimy Wang
 
@@ -8,7 +9,7 @@
 - 🌱 Currently studing in Sen-Yat sen University, China.
 - 💬 Ask me about Matlab, Python and my projects on [jinping_wang@foxmail.com](mailto:jinping_wang@foxmail.com), [wangjp86@mail2.sysu.edu.cn](mailto:wangjp86@mail2.sysu.edu.cn)
 - ⚡ Fun fact: Data Analysis📊
-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
 
 <p>
   <img src="http://views.whatilearened.today/views/github/Cimy-wang/views.svg"/>
