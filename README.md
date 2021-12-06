@@ -1,13 +1,15 @@
 ## Hello! 👋
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 ---
+
+
 ### I'm Cimy Wang
 
 - ⭐️ An Information Processing Ph. D Student. & Major in Multi-modal Data Processing.
 - 🌱 Currently studing in Sen-Yat sen University, China.
 - 💬 Ask me about Matlab, Python and my projects on [jinping_wang@foxmail.com](mailto:jinping_wang@foxmail.com), [wangjp86@mail2.sysu.edu.cn](mailto:wangjp86@mail2.sysu.edu.cn)
 - ⚡ Fun fact: Data Analysis📊
+- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
 <p>
   <img src="http://views.whatilearened.today/views/github/Cimy-wang/views.svg"/>
   <a href="https://github.com/Cimy-wang?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
