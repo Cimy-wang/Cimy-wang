@@ -10,7 +10,7 @@
 - ⚡ Fun fact: Data Analysis📊
 <p>
   <img src="http://views.whatilearened.today/views/github/Cimy-wang/views.svg"/>
-  #<a href="https://github.com/Cimy-wang/"><img src="https://img.Cimy-wang.io/github/followers/MrStanDu33?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+  /*<a href="https://github.com/Cimy-wang/"><img src="https://img.Cimy-wang.io/github/followers/MrStanDu33?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>*/
   <a href="https://github.com/Cimy-wang?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
 </p>
 ### 🛠 开源项目 
