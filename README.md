@@ -1,7 +1,7 @@
-## Hello GitHub Fans 👋
----
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+## Hello! 👋
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+---
 ### I'm Cimy Wang
 
 - ⭐️ An Information Processing Ph. D Student. & Major in Multi-modal Data Processing.
