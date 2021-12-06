@@ -24,6 +24,7 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![MATLAB](https://img.shields.io/badge/-MATLAB-blue)
 
 ### Tools
 
