@@ -21,7 +21,7 @@
 ### 🛠 Open Source 
 
 - [KNNRS [IEEE JSTARS'2018]](https://github.com/Cimy-wang/KNN-based-Representation-of-Superpixels-for-hyperspectral-image-classification)
-- [ASPCNet [Coming Soon]](https://github.com/Cimy-wang/Adaptive-Spatial-Pattern-Capsule-Public)
+- [ASPCNet [Neurocomuting'2022 has been relase]](https://github.com/Cimy-wang/ASPCNet)
 - [AM<sup>3</sup>Net [Coming Soon]](https://github.com/Cimy-wang/AM3Net)
 
 ### Languages
