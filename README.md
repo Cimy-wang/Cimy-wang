@@ -21,8 +21,8 @@
 ### 🛠 Open Source 
 
 - [KNNRS [IEEE JSTARS'2018]](https://github.com/Cimy-wang/KNN-based-Representation-of-Superpixels-for-hyperspectral-image-classification)
-- [ASPCNet [Neurocomuting'2022] *Relased*](https://github.com/Cimy-wang/ASPCNet)
-- [AM<sup>3</sup>Net [IEEE TCSVT'2022] *Relased*](https://github.com/Cimy-wang/AM3Net)
+- [ASPCNet_HSIC [Neurocomuting'2022] *Relased*](https://github.com/Cimy-wang/ASPCNet)
+- [AM<sup>3<sup>Net_Multimodal_Data_Fusion [IEEE TCSVT'2022] *Relased*](https://github.com/Cimy-wang/AM3Net)
 
 ### Languages
 
