@@ -20,10 +20,12 @@
 
 ### 🛠 Open Source 
 
-- [KNNRS-HSIC [IEEE JSTARS'2018]](https://github.com/Cimy-wang/KNN-based-Representation-of-Superpixels-for-hyperspectral-image-classification)
-    - To further explore the optimal representations of superpixels, the KNNRS method based on two $k$ selection rules is proposed to find the most representative training and test samples. 
-- [ASPCNet_HSIC [Neurocomuting'2022] *Relased*](https://github.com/Cimy-wang/ASPCNet)
-- [AM<sup>3</sup>Net_Multimodal_Data_Fusion [IEEE TCSVT'2022] *Relased*](https://github.com/Cimy-wang/AM3Net)
+1. [KNNRS-HSIC [IEEE JSTARS'2018]](https://github.com/Cimy-wang/KNN-based-Representation-of-Superpixels-for-hyperspectral-image-classification)
+    - To further explore the optimal representations of superpixels, the KNNRS method based on two _k_ selection rules is proposed to find the most representative training and test samples. 
+1. [ASPCNet_HSIC [Neurocomuting'2022] *Relased*](https://github.com/Cimy-wang/ASPCNet)
+    - This paper proposes an adaptive spatial pattern capsule network (ASPCNet) architecture by developing an adaptive spatial pattern (ASP) unit, that can rotate the sampling location of convolutional kernels on the basis of an enlarged receptive field. And it could adaptively changed according to the inconsistent semantic information of HSIs.
+3. [AM<sup>3</sup>Net_Multimodal_Data_Fusion [IEEE TCSVT'2022] *Relased*](https://github.com/Cimy-wang/AM3Net)
+    - Proposing multimodal data fusion methods pay more attention to the specificity of HSI spectral channels and the complementarity of HSI and LiDAR spatial information and consider more feature transmission processes among different modalities collaboratively. 
 
 ### Languages
 
@@ -37,4 +39,4 @@
 ![Latex](https://img.shields.io/badge/-latex-green)
 
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+> ***😊***
