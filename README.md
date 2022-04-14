@@ -37,5 +37,10 @@
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 ![Latex](https://img.shields.io/badge/-latex-green)
 
+### 📚 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cimy-wang&show_icons=true&theme=dracula)
+
+### 💻 My Most Used Languages
+![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimy-wang&layout=compact&theme=dracula)
 
 > ***😊***
