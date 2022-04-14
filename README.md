@@ -26,7 +26,7 @@
 1. [KNNRS-HSIC [IEEE JSTARS'2018]](https://github.com/Cimy-wang/KNN-based-Representation-of-Superpixels-for-hyperspectral-image-classification)
     - To further explore the optimal representations of superpixels, the KNNRS method based on two _k_ selection rules is proposed to find the most representative training and test samples. 
     - 
-### 💻 My Most Used Languages
+### Languages
 ![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimy-wang&layout=compact&theme=dracula)
 
 <!-- ### Languages
