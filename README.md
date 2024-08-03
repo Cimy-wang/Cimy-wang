@@ -5,9 +5,10 @@
 
 ### I'm Cimy Wang
 
-- ⭐️ An Information Processing Ph. D Student & Major in Multi-modal Data Processing.
-- 🌱 Currently studying in Sun Yat-sen University, China.
-- 💬 Ask me about Matlab, Python and my projects on [jinping_wang@foxmail.com](mailto:jinping_wang@foxmail.com), [wangjp29@mail2.sysu.edu.cn](mailto:wangjp29@mail2.sysu.edu.cn)
+- ⭐️ A lecturer at the School of Computer Science, Guangdong Polytechnic Normal University.
+- 📚 Current research interests include computer vision, pattern recognition, and multimodal data fusion.
+- 🌱 Received the Ph. D. degree in Electronics Information from Sun Yat-sen University. 
+- 💬 Ask me about Matlab, Python and my projects on [jinping_wang@foxmail.com](mailto:jinping_wang@foxmail.com), [wangjp@gpnu.edu.cn](mailto:wangjp@gpnu.edu.cn), [wangjp29@mail2.sysu.edu.cn](mailto:wangjp29@mail2.sysu.edu.cn)
 
 <!-- - ⚡ Pubilced List: [ORCID](https://orcid.org/0000-0002-4157-8605) -->
 
