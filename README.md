@@ -24,7 +24,7 @@
     - This paper proposes an adaptive spatial pattern capsule network (ASPCNet) architecture by developing an adaptive spatial pattern (ASP) unit, that can rotate the sampling location of convolutional kernels on the basis of an enlarged receptive field. And it could adaptively changed according to the inconsistent semantic information of HSIs.
 1. [KNNRS-HSIC [IEEE JSTARS'2018]](https://github.com/Cimy-wang/KNN-based-Representation-of-Superpixels-for-hyperspectral-image-classification)
     - To further explore the optimal representations of superpixels, the KNNRS method based on two _k_ selection rules is proposed to find the most representative training and test samples. 
-1. [Cimy_PPtools](https://github.com/Cimy-wang/Cimy-wang)
+1. [Cimy_PPtools](https://github.com/Cimy-wang/Cimy_PPtools)
     - This is a Python toolbox that supports data preprocessing for tasks such as hyperspectral classification and fusion, as well as model saving and result visualization.
     
 ### Languages
