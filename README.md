@@ -19,7 +19,7 @@
 
 ### 🛠 Open Source 
 1. [FusDreamer [Under Review] *Holding*](https://github.com/Cimy-wang/FusDreamer)
-   - Official implementation of "A label-efficient remote sensing world model for multimodal data fusion".
+   - World models significantly enhance hierarchical understanding, improving data integration and learning efficiency. To explore the potential of the world model in the remote sensing (RS) field, this paper proposes a label-efficient remote sensing world model for multimodal data fusion (FusDreamer).
 1. [AM<sup>3</sup>Net_Multimodal_Data_Fusion [IEEE TCSVT'2022] *Relased*](https://github.com/Cimy-wang/AM3Net)
     - Proposing multimodal data fusion methods pay more attention to the specificity of HSI spectral channels and the complementarity of HSI and LiDAR spatial information and consider more feature transmission processes among different modalities collaboratively. 
 1. [ASPCNet_HSIC [Neurocomuting'2022] *Relased*](https://github.com/Cimy-wang/ASPCNet)
