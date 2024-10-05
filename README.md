@@ -29,6 +29,8 @@ the I2I perception systems in open traffic scenarios.
     - Proposing multimodal data fusion methods pay more attention to the specificity of HSI spectral channels and the complementarity of HSI and LiDAR spatial information and consider more feature transmission processes among different modalities collaboratively. 
 1. [ASPCNet_HSIC [Neurocomuting'2022] *Released*](https://github.com/Cimy-wang/ASPCNet)
     - This paper proposes an adaptive spatial pattern capsule network (ASPCNet) architecture by developing an adaptive spatial pattern (ASP) unit, that can rotate the sampling location of convolutional kernels based on an enlarged receptive field. It could adaptively change according to the inconsistent semantic information of HSIs.
+1. [TPS-HSIC [IEEE JSTARS'2019] *Released*](https://github.com/Cimy-wang/TPS_HSIC)
+    - This paper introduces a new feature extraction method called TPS into HSI to address the layer-separation problem.
 1. [KNNRS-HSIC [IEEE JSTARS'2018] *Released*](https://github.com/Cimy-wang/KNN-based-Representation-of-Superpixels-for-hyperspectral-image-classification)
     - To further explore the optimal representations of superpixels, the KNNRS method based on two _k_ selection rules is proposed to find the most representative training and test samples. 
 1. [Cimy_PPtools](https://github.com/Cimy-wang/Cimy_PPtools)
