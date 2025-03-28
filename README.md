@@ -48,7 +48,7 @@ the I2I perception systems in open traffic scenarios.
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 ![Latex](https://img.shields.io/badge/-latex-green)
 
--- ### 📚 GitHub Stats
+<!-- ### 📚 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cimy-wang&show_icons=true&theme=dracula)
 
 ### 💻 My Most Used Languages
