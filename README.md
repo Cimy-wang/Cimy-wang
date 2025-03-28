@@ -8,7 +8,7 @@
 - 🌱 A lecturer at the School of Computer Science, Guangdong Polytechnic Normal University.
 - ⭐️ Current research interests include computer vision, pattern recognition, and multimodal data fusion.
 - 📈 Received the Ph. D. degree in Electronics Information from Sun Yat-sen University. 
-- 💬 Ask me about my projects and scientific cooperation on [jinping_wang@foxmail.com](mailto:jinping_wang@foxmail.com)(primary), [wangjp@gpnu.edu.cn](mailto:wangjp@gpnu.edu.cn)(primary).<!- [wangjp29@mail2.sysu.edu.cn](mailto:wangjp29@mail2.sysu.edu.cn)(secondary)-->
+- 💬 Ask me about my projects and scientific cooperation on [jinping_wang@foxmail.com](mailto:jinping_wang@foxmail.com)(primary), [wangjp@gpnu.edu.cn](mailto:wangjp@gpnu.edu.cn)(primary).<!-- [wangjp29@mail2.sysu.edu.cn](mailto:wangjp29@mail2.sysu.edu.cn)(secondary)-->
 - 📝 Published List: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=sYT7hPwAAAAJ&view_op=list_works&sortby=pubdate)
 
 <p>
