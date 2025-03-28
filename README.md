@@ -1,9 +1,9 @@
-## Hello! 👋
+## Hello! This is Cimy Wang.👋
 ---
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### This is Cimy Wang
+### 💻 About Me
 
 - ⭐️ A lecturer at the School of Computer Science, Guangdong Polytechnic Normal University.
 - 📚 Current research interests include computer vision, pattern recognition, and multimodal data fusion.
@@ -25,7 +25,7 @@ the I2I perception systems in open traffic scenarios.
 1. MBFormer [IEEE TCSVT'2023] *Holding*
    - This paper is the first time that dynamic region-aware convolution is introduced for spatial guide mask generation, and the acquired mask is used as an elevation salience agent to guide another branch for spatial contextual-aware information exploration.
 1. [AM<sup>3</sup>Net_Multimodal_Data_Fusion [IEEE TCSVT'2022] *Released*](https://github.com/Cimy-wang/AM3Net)
-    - Proposing multimodal data fusion methods pay more attention to the specificity of HSI spectral channels and the complementarity of HSI and LiDAR spatial information and consider more feature transmission processes among different modalities collaboratively. 
+    - Proposing multimodal data fusion methods that pay more attention to the specificity of HSI spectral channels and the complementarity of HSI and LiDAR spatial information and consider more feature transmission processes among different modalities collaboratively. 
 1. [ASPCNet_HSIC [Neurocomuting'2022] *Released*](https://github.com/Cimy-wang/ASPCNet)
     - This paper proposes an adaptive spatial pattern capsule network (ASPCNet) architecture by developing an adaptive spatial pattern (ASP) unit, that can rotate the sampling location of convolutional kernels based on an enlarged receptive field. It could adaptively change according to the inconsistent semantic information of HSIs.
 1. [TPS-HSIC [IEEE JSTARS'2019] *Released*](https://github.com/Cimy-wang/TPS_HSIC)
