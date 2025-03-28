@@ -18,7 +18,7 @@
 </p>
 
 ### 🛠 Open Source 
-1. [FusDreamer [Under Review] *Holding*](https://github.com/Cimy-wang/FusDreamer)
+1. [FusDreamer [IEEE TGRS'2025] *Released*](https://github.com/Cimy-wang/FusDreamer)
    - World models significantly enhance hierarchical understanding, improving data integration and learning efficiency. To explore the potential of the world model in the RS field, this paper proposes a label-efficient remote sensing world model for multimodal data fusion (FusDreamer).
 1. [InScope Dataset [Under Review] *Released*](https://github.com/xf-zh/InScope)
    - A large-scale dataset (InScope) featuring multi-position LiDARs in a real-world setting is presented in this paper, specifically developed to address the current research gap concerning occlusion challenges within
