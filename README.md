@@ -1,15 +1,15 @@
-## Hello! This is Cimy Wang.👋
+## Hello! This is Cimy Wang.✨
 ---
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### 💻 About Me
 
-- ⭐️ A lecturer at the School of Computer Science, Guangdong Polytechnic Normal University.
-- 📚 Current research interests include computer vision, pattern recognition, and multimodal data fusion.
-- 🌱 Received the Ph. D. degree in Electronics Information from Sun Yat-sen University. 
+- 🌱 A lecturer at the School of Computer Science, Guangdong Polytechnic Normal University.
+- ⭐️ Current research interests include computer vision, pattern recognition, and multimodal data fusion.
+- 📈 Received the Ph. D. degree in Electronics Information from Sun Yat-sen University. 
 - 💬 Ask me about my projects and scientific cooperation on [jinping_wang@foxmail.com](mailto:jinping_wang@foxmail.com)(primary), [wangjp@gpnu.edu.cn](mailto:wangjp@gpnu.edu.cn)(primary), [wangjp29@mail2.sysu.edu.cn](mailto:wangjp29@mail2.sysu.edu.cn)(secondary)
-- ⚡ Published List: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=sYT7hPwAAAAJ&view_op=list_works&sortby=pubdate)
+- 📝 Published List: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=sYT7hPwAAAAJ&view_op=list_works&sortby=pubdate)
 
 <p>
   <img src="http://views.whatilearened.today/views/github/Cimy-wang/views.svg"/>
