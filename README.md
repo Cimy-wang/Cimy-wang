@@ -31,7 +31,9 @@ the I2I perception systems in open traffic scenarios.
 1. [TPS-HSIC [IEEE JSTARS'2019] *Released*](https://github.com/Cimy-wang/TPS_HSIC)
     - This paper introduces a new feature extraction method called TPS into HSI to address the layer-separation problem.
 1. [KNNRS-HSIC [IEEE JSTARS'2018] *Released*](https://github.com/Cimy-wang/KNN-based-Representation-of-Superpixels-for-hyperspectral-image-classification)
-    - To further explore the optimal representations of superpixels, the KNNRS method based on two _k_ selection rules is proposed to find the most representative training and test samples. 
+   - To further explore the optimal representations of superpixels, the KNNRS method based on two _k_ selection rules is proposed to find the most representative training and test samples.
+1. [CCJSR [IEEE GRSL'2018] *Released*](https://github.com/xf-zh/Hyperspectral-Image-Classification-via-Fusing-Correlation-Coefficient-and-Joint-Sparse-Representatio)
+   - A hyperspectral image classification method via fusing correlation coefficient and joint sparse representation.
 1. [Cimy_PPtools](https://github.com/Cimy-wang/Cimy_PPtools)
     - This is a Python toolbox that supports data preprocessing for tasks such as hyperspectral classification and fusion, as well as model saving and result visualization.
     
