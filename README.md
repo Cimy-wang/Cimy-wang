@@ -17,7 +17,7 @@
 </p>
 
 ### 🛠 Publish
-1. [CaPaT [IEEE GRSL'2025] *Holding*]
+1. CaPaT [IEEE GRSL'2025] *Holding*
    - Unlike existing networks that employ weight-sharing or indirect interaction strategies, the CaPaT introduces a direct feature interaction paradigm that significantly improves the transfer efficiency of feature fusion while reducing the number of model parameters. 
 1. [FusDreamer [IEEE TGRS'2025] *Released*](https://github.com/Cimy-wang/FusDreamer)
    - World models significantly enhance hierarchical understanding, improving data integration and learning efficiency. To explore the potential of the world model in the RS field, this paper proposes a label-efficient remote sensing world model for multimodal data fusion (FusDreamer).
