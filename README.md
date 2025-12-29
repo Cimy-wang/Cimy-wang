@@ -20,7 +20,7 @@
 ### 🛠 Publish
 1. [InScope Dataset [Information Fusion'2026] *Released*](https://github.com/xf-zh/InScope)
    - A large-scale dataset (InScope) featuring multi-position LiDARs in a real-world setting is presented in this paper, specifically developed to address the current research gap concerning occlusion challenges within the I2I perception systems in open traffic scenarios.
-1. [Confidence‑V2X [ADVEI'2026] *Released*](https://github.com/Cimy-wang/FusDreamer)
+1. [Confidence‑V2X [ADVEI'2026] *Released*](https://github.com/Rwang0208/Confidence-V2X)
    - This paper presents Confidence‑V2X, a confidence‑aware cooperative perception framework designed to jointly optimize object detection performance and communication efficiency in V2X systems.
 1. CaPaT [IEEE GRSL'2025] *Holding*
    - Unlike existing networks that employ weight-sharing or indirect interaction strategies, the CaPaT introduces a direct feature interaction paradigm that significantly improves the transfer efficiency of feature fusion while reducing the number of model parameters. 
