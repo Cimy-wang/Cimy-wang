@@ -8,8 +8,8 @@
 - 🌱 A lecturer at the School of Computer Science, Guangdong Polytechnic Normal University.
 - ⭐️ Current research focuses on multimodal data fusion for autonomous driving, remote sensing, and vehicle–infrastructure cooperation.
 - :school: Received the Ph. D. degree in Electronics Information from Sun Yat-sen University. 
-- 💬 Ask me about my projects and scientific cooperation on [jinping_wang@foxmail.com](mailto:jinping_wang@foxmail.com)(personal) and [wangjp@gpnu.edu.cn](mailto:wangjp@gpnu.edu.cn)(institutional).<!-- [wangjp29@mail2.sysu.edu.cn](mailto:wangjp29@mail2.sysu.edu.cn)(secondary)-->
 - 📈 I maintain active and long‑term scientific collaborations with Sun Yat-sen University, University of Cambridge, Peng Cheng Laboratory, and Robert Gordon University.
+- 💬 Ask me about my projects and scientific cooperation on [jinping_wang@foxmail.com](mailto:jinping_wang@foxmail.com)(personal) and [wangjp@gpnu.edu.cn](mailto:wangjp@gpnu.edu.cn)(institutional).<!-- [wangjp29@mail2.sysu.edu.cn](mailto:wangjp29@mail2.sysu.edu.cn)(secondary)-->
 - 📝 Published List: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=sYT7hPwAAAAJ&view_op=list_works&sortby=pubdate)
 
 <p>
