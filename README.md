@@ -6,9 +6,10 @@
 ### 💻 About Me
 
 - 🌱 A lecturer at the School of Computer Science, Guangdong Polytechnic Normal University.
-- ⭐️ Current research interests include computer vision, pattern recognition, and multimodal data fusion.
-- 📈 Received the Ph. D. degree in Electronics Information from Sun Yat-sen University. 
-- 💬 Ask me about my projects and scientific cooperation on [jinping_wang@foxmail.com](mailto:jinping_wang@foxmail.com)(primary) and [wangjp@gpnu.edu.cn](mailto:wangjp@gpnu.edu.cn)(secondary).<!-- [wangjp29@mail2.sysu.edu.cn](mailto:wangjp29@mail2.sysu.edu.cn)(secondary)-->
+- ⭐️ Current research focuses on multimodal data fusion for autonomous driving, remote sensing, and vehicle–infrastructure cooperation.
+- :school: Received the Ph. D. degree in Electronics Information from Sun Yat-sen University. 
+- 💬 Ask me about my projects and scientific cooperation on [jinping_wang@foxmail.com](mailto:jinping_wang@foxmail.com)(personal) and [wangjp@gpnu.edu.cn](mailto:wangjp@gpnu.edu.cn)(institutional).<!-- [wangjp29@mail2.sysu.edu.cn](mailto:wangjp29@mail2.sysu.edu.cn)(secondary)-->
+- 📈 I maintain active and long‑term scientific collaborations with Sun Yat-sen University, University of Cambridge, Peng Cheng Laboratory, and Robert Gordon University.
 - 📝 Published List: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=sYT7hPwAAAAJ&view_op=list_works&sortby=pubdate)
 
 <p>
@@ -17,13 +18,14 @@
 </p>
 
 ### 🛠 Publish
+1. [InScope Dataset [Information Fusion'2026] *Released*](https://github.com/xf-zh/InScope)
+   - A large-scale dataset (InScope) featuring multi-position LiDARs in a real-world setting is presented in this paper, specifically developed to address the current research gap concerning occlusion challenges within the I2I perception systems in open traffic scenarios.
+1. [Confidence‑V2X [ADVEI'2026] *Released*](https://github.com/Cimy-wang/FusDreamer)
+   - This paper presents Confidence‑V2X, a confidence‑aware cooperative perception framework designed to jointly optimize object detection performance and communication efficiency in V2X systems.
 1. CaPaT [IEEE GRSL'2025] *Holding*
    - Unlike existing networks that employ weight-sharing or indirect interaction strategies, the CaPaT introduces a direct feature interaction paradigm that significantly improves the transfer efficiency of feature fusion while reducing the number of model parameters. 
 1. [FusDreamer [IEEE TGRS'2025] *Released*](https://github.com/Cimy-wang/FusDreamer)
    - World models significantly enhance hierarchical understanding, improving data integration and learning efficiency. To explore the potential of the world model in the RS field, this paper proposes a label-efficient remote sensing world model for multimodal data fusion (FusDreamer).
-1. [InScope Dataset [Information Fusion] *Released*](https://github.com/xf-zh/InScope)
-   - A large-scale dataset (InScope) featuring multi-position LiDARs in a real-world setting is presented in this paper, specifically developed to address the current research gap concerning occlusion challenges within
-the I2I perception systems in open traffic scenarios.
 1. MBFormer [IEEE TCSVT'2023] *Holding*
    - This paper is the first time that dynamic region-aware convolution is introduced for spatial guide mask generation, and the acquired mask is used as an elevation salience agent to guide another branch for spatial contextual-aware information exploration.
 1. [AM<sup>3</sup>Net_Multimodal_Data_Fusion [IEEE TCSVT'2022] *Released*](https://github.com/Cimy-wang/AM3Net)
