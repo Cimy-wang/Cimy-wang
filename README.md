@@ -42,7 +42,8 @@
     - This is a Python toolbox that supports data preprocessing for tasks such as hyperspectral classification and fusion, as well as model saving and result visualization.
     
 ### Languages
-![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimy-wang&layout=compact&theme=dracula)
+|  🐍 **Python**  |   📐 MATLAB  | 📜 Shell  | 
+<!-- ![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimy-wang&layout=compact&theme=dracula)-->
 
 <!-- ### Languages
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
