@@ -6,9 +6,7 @@ School of Computer Science, Guangdong Polytechnic Normal University
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?style=flat&logo=google-scholar)](https://scholar.google.com/citations?hl=zh-CN&user=sYT7hPwAAAAJ&view_op=list_works&sortby=pubdate)
 [![Institutional Email](https://img.shields.io/badge/Email-Institutional-red?style=flat&logo=minutemailer)](mailto:wangjp@gpnu.edu.cn)
 [![Personal Email](https://img.shields.io/badge/Email-Personal-red?style=flat&logo=gmail)](mailto:jinping_wang@foxmail.com)
-<p align="center">
-  <img src="https://vercel-citations.vercel.app/api/simple?id=sYT7hPwAAAAJ" alt="Citation History" width="600"/>
-</p>
+[![Citations](https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DsYT7hPwAAAAJ&color=blue)](https://scholar.google.com/citations?user=sYT7hPwAAAAJ)
 
 
 ---
