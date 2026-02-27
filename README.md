@@ -1,4 +1,4 @@
-# This is Jinping (Cimy) Wang.
+# Jinping (Cimy) Wang, Ph.D.
 
 **Lecturer | Researcher in Multimodal Data Fusion**
 School of Computer Science, Guangdong Polytechnic Normal University
@@ -29,9 +29,13 @@ I maintain active and long‑term scientific collaborations with researchers fro
 
 ## 🔬 Selected Publications & Academic Artifacts
 
-*Note: My research philosophy strongly supports open science. Datasets and codebases associated with my publications are made publicly available where possible.*
+*Note: My research philosophy strongly supports open science. Datasets and codebases associated with my publications are made publicly available where possible. For a comprehensive and up-to-date list of my publications, please refer to my **[Google Scholar Profile](https://scholar.google.com/citations?hl=zh-CN&user=sYT7hPwAAAAJ&view_op=list_works&sortby=pubdate)**.*
 
 ### 2024 - 2026
+- **[CVPR '26]** **SceneBench: Evaluating and Enhancing Long Video Understanding via Scene-Level Context** | [🔗 Paper](https://openreview.net/forum?id=ie5Weh1yN7) | 📖 *Accepted*
+ 
+  *Introduces SceneBench to evaluate scene-level long video understanding in VLMs, and proposes Scene-RAG to effectively mitigate long-context forgetting via dynamic scene memory.*
+
 - **[IEEE TMM '26]** **Cognidrive: Cognitive Autonomous Driving Understanding with Multistep Multimodal Chain-of-Thought Reasoning** | 📖 *Accepted*
 
   *A large-scale dataset featuring multi-position LiDARs in a real-world setting, addressing occlusion challenges within I2I perception systems.*
