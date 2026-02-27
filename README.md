@@ -1,5 +1,7 @@
 # Jinping (Cimy) Wang, Ph.D.
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
 **Lecturer | Researcher in Multimodal Data Fusion**
 School of Computer Science, Guangdong Polytechnic Normal University
 
