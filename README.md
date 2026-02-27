@@ -1,4 +1,4 @@
-# Jinping (Cimy) Wang, Ph.D.
+# This is Jinping (Cimy) Wang.
 
 **Lecturer | Researcher in Multimodal Data Fusion**
 School of Computer Science, Guangdong Polytechnic Normal University
