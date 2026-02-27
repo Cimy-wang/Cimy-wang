@@ -1,64 +1,68 @@
-## Hello! This is Cimy Wang.✨
----
+# Jinping (Cimy) Wang, Ph.D.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+**Lecturer | Researcher in Multimodal Data Fusion**
+School of Computer Science, Guangdong Polytechnic Normal University
 
-### 💻 About Me
-
-- 🌱 A lecturer at the School of Computer Science, Guangdong Polytechnic Normal University.
-- ⭐️ Current research focuses on multimodal data fusion for autonomous driving, remote sensing, and vehicle–infrastructure cooperation.
-- :school: Received the Ph. D. degree in Electronics Information from Sun Yat-sen University. 
-- 📈 I maintain active and long‑term scientific collaborations with Sun Yat-sen University, University of Cambridge, Peng Cheng Laboratory, and Robert Gordon University.
-- 💬 Ask me about my projects and scientific cooperation on [jinping_wang@foxmail.com](mailto:jinping_wang@foxmail.com)(personal) and [wangjp@gpnu.edu.cn](mailto:wangjp@gpnu.edu.cn)(institutional).<!-- [wangjp29@mail2.sysu.edu.cn](mailto:wangjp29@mail2.sysu.edu.cn)(secondary)-->
-- 📝 Published List: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=sYT7hPwAAAAJ&view_op=list_works&sortby=pubdate)
-
-<p>
-  <img src="http://views.whatilearened.today/views/github/Cimy-wang/views.svg"/>
-  <a href="https://github.com/Cimy-wang?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?style=flat&logo=google-scholar)](https://scholar.google.com/citations?hl=zh-CN&user=sYT7hPwAAAAJ&view_op=list_works&sortby=pubdate)
+[![Institutional Email](https://img.shields.io/badge/Email-Institutional-red?style=flat&logo=minutemailer)](mailto:wangjp@gpnu.edu.cn)
+[![Personal Email](https://img.shields.io/badge/Email-Personal-red?style=flat&logo=gmail)](mailto:jinping_wang@foxmail.com)
+<p align="center">
+  <img src="https://vercel-citations.vercel.app/api/simple?id=sYT7hPwAAAAJ" alt="Citation History" width="600"/>
 </p>
 
-### 🛠 Publish
-1. [InScope Dataset [Information Fusion'2026] *Released*](https://github.com/xf-zh/InScope)
-   - A large-scale dataset (InScope) featuring multi-position LiDARs in a real-world setting is presented in this paper, specifically developed to address the current research gap concerning occlusion challenges within the I2I perception systems in open traffic scenarios.
-1. [Confidence‑V2X [ADVEI'2026] *Released*](https://github.com/Rwang0208/Confidence-V2X)
-   - This paper presents Confidence‑V2X, a confidence‑aware cooperative perception framework designed to jointly optimize object detection performance and communication efficiency in V2X systems.
-1. CaPaT [IEEE GRSL'2025] *Holding*
-   - Unlike existing networks that employ weight-sharing or indirect interaction strategies, the CaPaT introduces a direct feature interaction paradigm that significantly improves the transfer efficiency of feature fusion while reducing the number of model parameters. 
-1. [FusDreamer [IEEE TGRS'2025] *Released*](https://github.com/Cimy-wang/FusDreamer)
-   - World models significantly enhance hierarchical understanding, improving data integration and learning efficiency. To explore the potential of the world model in the RS field, this paper proposes a label-efficient remote sensing world model for multimodal data fusion (FusDreamer).
-1. MBFormer [IEEE TCSVT'2023] *Holding*
-   - This paper is the first time that dynamic region-aware convolution is introduced for spatial guide mask generation, and the acquired mask is used as an elevation salience agent to guide another branch for spatial contextual-aware information exploration.
-1. [AM<sup>3</sup>Net_Multimodal_Data_Fusion [IEEE TCSVT'2022] *Released*](https://github.com/Cimy-wang/AM3Net)
-    - Proposing multimodal data fusion methods that pay more attention to the specificity of HSI spectral channels and the complementarity of HSI and LiDAR spatial information and consider more feature transmission processes among different modalities collaboratively. 
-1. [ASPCNet_HSIC [Neurocomuting'2022] *Released*](https://github.com/Cimy-wang/ASPCNet)
-    - This paper proposes an adaptive spatial pattern capsule network (ASPCNet) architecture by developing an adaptive spatial pattern (ASP) unit, that can rotate the sampling location of convolutional kernels based on an enlarged receptive field. It could adaptively change according to the inconsistent semantic information of HSIs.
-1. [TPS-HSIC [IEEE JSTARS'2019] *Released*](https://github.com/Cimy-wang/TPS_HSIC)
-    - This paper introduces a new feature extraction method called TPS into HSI to address the layer-separation problem.
-1. [KNNRS-HSIC [IEEE JSTARS'2018] *Released*](https://github.com/Cimy-wang/KNN-based-Representation-of-Superpixels-for-hyperspectral-image-classification)
-   - To further explore the optimal representations of superpixels, the KNNRS method based on two _k_ selection rules is proposed to find the most representative training and test samples.
-1. [CCJSR [IEEE GRSL'2018] *Released*](https://github.com/xf-zh/Hyperspectral-Image-Classification-via-Fusing-Correlation-Coefficient-and-Joint-Sparse-Representatio)
-   - A hyperspectral image classification method via fusing correlation coefficient and joint sparse representation.
-1. [Cimy_PPtools](https://github.com/Cimy-wang/Cimy_PPtools)
-    - This is a Python toolbox that supports data preprocessing for tasks such as hyperspectral classification and fusion, as well as model saving and result visualization.
-    
-### Languages
-|  🐍 **Python**  |   📐 MATLAB  | 📜 Shell  | 
-<!-- ![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimy-wang&layout=compact&theme=dracula)-->
 
-<!-- ### Languages
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![MATLAB](https://img.shields.io/badge/-MATLAB-blue) -->
+---
 
-### Tools
+## 🏛️ Biography
 
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) 
-![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
-![Latex](https://img.shields.io/badge/-latex-green)
+I am currently a Lecturer at the School of Computer Science, **Guangdong Polytechnic Normal University**. I received my Ph.D. degree in Electronics Information from **Sun Yat-sen University**. 
 
-<!-- ### 📚 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cimy-wang&show_icons=true&theme=dracula)
+My primary research interests lie at the intersection of **Computer Vision** and **Multimodal Data Fusion**, with specific applications deployed in **autonomous driving, remote sensing, and vehicle-infrastructure cooperation (V2X)**. I am dedicated to developing robust perception systems for complex, real-world open traffic scenarios.
 
-### 💻 My Most Used Languages
-![My most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Cimy-wang&layout=compact&theme=dracula) -->
+I maintain active and long‑term scientific collaborations with researchers from *Sun Yat-sen University*, the *University of Cambridge*, *Peng Cheng Laboratory*, and *Robert Gordon University*.
 
-> ***😊***
+---
+
+## 🔬 Selected Publications & Academic Artifacts
+
+*Note: My research philosophy strongly supports open science. Datasets and codebases associated with my publications are made publicly available where possible.*
+
+### 2025 - 2026
+- **[IEEE TMM '26]** **InScope Dataset** | [🔗 Dataset & Code](https://github.com/xf-zh/InScope)
+  *A large-scale dataset featuring multi-position LiDARs in a real-world setting, addressing occlusion challenges within I2I perception systems.*
+- **[Information Fusion '26]** **InScope Dataset** | [🔗 Dataset & Code](https://github.com/xf-zh/InScope)
+  *A large-scale dataset featuring multi-position LiDARs in a real-world setting, addressing occlusion challenges within I2I perception systems.*
+- **[ADVEI '26]** **Confidence‑V2X** | [🔗 Code](https://github.com/Rwang0208/Confidence-V2X)
+  *A confidence‑aware cooperative perception framework designed to jointly optimize object detection performance and communication efficiency in V2X systems.*
+- **[IEEE TGRS '25]** **FusDreamer** | [🔗 Code](https://github.com/Cimy-wang/FusDreamer)
+  *A label-efficient remote sensing world model for multimodal data fusion, exploring the potential of the world model in the RS field.*
+- **[IEEE GRSL '25]** **CaPaT** *(In Press / Under Review)*
+  *Introduces a direct feature interaction paradigm to improve the transfer efficiency of feature fusion while significantly reducing model parameters.*
+
+### 2022 - 2023
+- **[IEEE TCSVT '23]** **MBFormer** *(In Press / Under Review)*
+  *Introduces dynamic region-aware convolution for spatial guide mask generation and elevation salience agent guidance.*
+- **[IEEE TCSVT '22]** **AM³Net** | [🔗 Code](https://github.com/Cimy-wang/AM3Net)
+  *Collaborative feature transmission focusing on the specificity of HSI spectral channels and the complementarity of HSI and LiDAR spatial information.*
+- **[Neurocomputing '22]** **ASPCNet_HSIC** | [🔗 Code](https://github.com/Cimy-wang/ASPCNet)
+  *An adaptive spatial pattern capsule network architecture based on an enlarged, semantically-adaptive receptive field.*
+
+### 2018 - 2019
+- **[IEEE JSTARS '19]** **TPS-HSIC** | [🔗 Code](https://github.com/Cimy-wang/TPS_HSIC)
+  *Addresses the layer-separation problem in HSI via a novel TPS feature extraction method.*
+- **[IEEE JSTARS '18]** **KNNRS-HSIC** | [🔗 Code](https://github.com/Cimy-wang/KNN-based-Representation-of-Superpixels-for-hyperspectral-image-classification)
+  *Explores optimal representations of superpixels using two k-selection rules to find the most representative samples.*
+- **[IEEE GRSL '18]** **CCJSR** | [🔗 Code](https://github.com/xf-zh/Hyperspectral-Image-Classification-via-Fusing-Correlation-Coefficient-and-Joint-Sparse-Representatio)
+  *A hyperspectral image classification method via fusing correlation coefficient and joint sparse representation.*
+
+---
+
+## 🧰 Open Source Utilities
+
+- **[Cimy_PPtools](https://github.com/Cimy-wang/Cimy_PPtools)**: A comprehensive Python toolbox designed for data preprocessing in hyperspectral classification and fusion tasks, supporting model serialization and result visualization.
+
+**Core Technical Stack:**
+`Python` | `MATLAB` | `Shell` | `LaTeX`
+
+---
+*✉️ Open to scientific cooperation and academic inquiries. Please feel free to reach out.*
