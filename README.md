@@ -32,66 +32,74 @@ I maintain active and long‑term scientific collaborations with researchers fro
 *Note: My research philosophy strongly supports open science. Datasets and codebases associated with my publications are made publicly available where possible. For a comprehensive and up-to-date list of my publications, please refer to my **[Google Scholar Profile](https://scholar.google.com/citations?hl=zh-CN&user=sYT7hPwAAAAJ&view_op=list_works&sortby=pubdate)**.*
 
 ### 2024 - 2026
-- **[CVPR '26]** **SceneBench: Evaluating and Enhancing Long Video Understanding via Scene-Level Context** | [🔗 Paper](https://openreview.net/forum?id=ie5Weh1yN7) | 📖 *Accepted*
+- [**CVPR '26**] SceneBench: Evaluating and Enhancing Long Video Understanding via Scene-Level Context. Seng Nam Chen, Hao Chen, Chenglam Ho, Xinyu Mao, **Jinping Wang,** Yu Zhang, Chao Li.
  
-  *Introduces SceneBench to evaluate scene-level long video understanding in VLMs, and proposes Scene-RAG to effectively mitigate long-context forgetting via dynamic scene memory.*
+  *Introduces SceneBench to evaluate scene-level long video understanding in VLMs, and proposes Scene-RAG to effectively mitigate long-context forgetting via dynamic scene memory.* [🔗 Paper](https://openreview.net/forum?id=ie5Weh1yN7) 
 
-- **[IEEE TMM '26]** **Cognidrive: Cognitive Autonomous Driving Understanding with Multistep Multimodal Chain-of-Thought Reasoning** | 📖 *Accepted*
+- **[IEEE TMM '26]** Cognidrive: Cognitive Autonomous Driving Understanding with Multistep Multimodal Chain-of-Thought Reasoning. Xiangyi Qin, Xiaofei Zhang, Shuai Wang, Yuzhen Wei, **Jinping Wang\***, Xiaojun Tan.
 
-  *A large-scale dataset featuring multi-position LiDARs in a real-world setting, addressing occlusion challenges within I2I perception systems.*
-- **[Information Fusion '26]** **Inscope: A new real-world 3d infrastructure-side collaborative perception dataset for open traffic scenarios** | [🔗 Paper](https://www.sciencedirect.com/science/article/pii/S1566253525010139) | [🔗 Dataset & Code](https://github.com/xf-zh/InScope)
+  *A large-scale dataset featuring multi-position LiDARs in a real-world setting, addressing occlusion challenges within I2I perception systems.* 📖 *Accepted*
 
-  *A large-scale dataset featuring multi-position LiDARs in a real-world setting, addressing occlusion challenges within I2I perception systems.*
-- **[ADVEI '26]** **Confidence-V2X: Confidence-driven sparse communication for efficient V2X cooperative perception** | [🔗 Paper](https://www.sciencedirect.com/science/article/pii/S1474034625008079) | [🔗 Code](https://github.com/Rwang0208/Confidence-V2X)
+- **[Information Fusion '26]** Inscope: A new real-world 3d infrastructure-side collaborative perception dataset for open traffic scenarios, Xiaofei Zhang#, 
+Yining Li#, **Jinping Wang#**, Xiangyi Qin, Ying Shen, Zhengping Fan, Xiaojun Tan
 
-  *A confidence‑aware cooperative perception framework designed to jointly optimize object detection performance and communication efficiency in V2X systems.*
-- **[IEEE TGRS '25]** **FusDreamer: Label-efficient remote sensing world model for multimodal data classification | [🔗 Paper](https://ieeexplore.ieee.org/document/10942442/)** | [🔗 Code](https://github.com/Cimy-wang/FusDreamer)
+  *A large-scale dataset featuring multi-position LiDARs in a real-world setting, addressing occlusion challenges within I2I perception systems.*  [🔗 Paper](https://www.sciencedirect.com/science/article/pii/S1566253525010139) [🔗 Dataset & Code](https://github.com/xf-zh/InScope)
 
-  *A label-efficient remote sensing world model for multimodal data fusion, exploring the potential of the world model in the RS field.*
-- **[IEEE GRSL '25]** **CaPaT: Cross-Aware Paired-Affine Transformation for Multimodal Data Fusion Network** | [🔗 Paper](https://ieeexplore.ieee.org/document/10973085/) | 🔄 *Code Holding*
+- **[ADVEI '26]** Confidence-V2X: Confidence-driven sparse communication for efficient V2X cooperative perception. Xiaojun Tan, Rui Wang, **Jinping Wang\***, Shuai Wang, Xu Wang, Dongsheng Wu.
 
-  *Introduces a direct feature interaction paradigm to improve the transfer efficiency of feature fusion while significantly reducing model parameters.*
+  *A confidence‑aware cooperative perception framework designed to jointly optimize object detection performance and communication efficiency in V2X systems.* [🔗 Paper](https://www.sciencedirect.com/science/article/pii/S1474034625008079) [🔗 Code](https://github.com/Rwang0208/Confidence-V2X)
 
-- **[ICASSP '24]** **BEVLOC: End-to-end 6-dof localization via cross-modality correlation under bird’s eye view** | [🔗 Paper](https://ieeexplore.ieee.org/document/10445984/)
+- **[IEEE TGRS '25]** FusDreamer: Label-efficient remote sensing world model for multimodal data classification. **Jinping Wang**, Weiwei Song, Hao Chen, Jinchang Ren, Huimin Zhao.
 
-  *An end-to-end approach for vehicle localization that fuses monocular image and LiDAR map features in the BEV space via optical flow-based cross-modality correlation.*
+  *A label-efficient remote sensing world model for multimodal data fusion, exploring the potential of the world model in the RS field.* [🔗 Paper](https://ieeexplore.ieee.org/document/10942442/) [🔗 Code](https://github.com/Cimy-wang/FusDreamer)
+
+- **[IEEE GRSL '25]** CaPaT: Cross-Aware Paired-Affine Transformation for Multimodal Data Fusion Network. **Jinping Wang**, Hao Chen, Xiaofei Zhang, Weiwei Song. 
+
+  *Introduces a direct feature interaction paradigm to improve the transfer efficiency of feature fusion while significantly reducing model parameters.* [🔗 Paper](https://ieeexplore.ieee.org/document/10973085/) 
+
+- **[ICASSP '24]** BEVLOC: End-to-end 6-dof localization via cross-modality correlation under bird’s eye view. Nanjie Chen, **Jinping Wang**, Hao Chen, Ying Shen, Shuai Wang, Xiaojun Tan
+
+  *An end-to-end approach for vehicle localization that fuses monocular image and LiDAR map features in the BEV space via optical flow-based cross-modality correlation.*  [🔗 Paper](https://ieeexplore.ieee.org/document/10445984/)
 
 ### 2022 - 2023
-- **[IEEE TCSVT '23]** **Mutually beneficial transformer for multimodal data fusion** | [🔗 Paper](https://ieeexplore.ieee.org/document/10122197/) |  🔄 *Code Holding*
+- **[IEEE TCSVT '23]** Mutually beneficial transformer for multimodal data fusion. **Jinping Wang**, Xiaojun Tan.
 
-  *Introduces dynamic region-aware convolution for spatial guide mask generation and elevation salience agent guidance.*
-- **[IEEE TCSVT '22]** **AM³Net: Adaptive mutual-learning-based multimodal data fusion network** | [🔗 Paper]| [🔗 Paper](https://ieeexplore.ieee.org/document/9698196/) | [🔗 Code](https://github.com/Cimy-wang/AM3Net)
+  *Introduces dynamic region-aware convolution for spatial guide mask generation and elevation salience agent guidance.*  [🔗 Paper](https://ieeexplore.ieee.org/document/10122197/)
 
-  *Collaborative feature transmission focusing on the specificity of HSI spectral channels and the complementarity of HSI and LiDAR spatial information.*
+- **[IEEE TCSVT '22]** AM³Net: Adaptive mutual-learning-based multimodal data fusion network. **Jinping Wang**, Jun Li, Yanli Shi, Jianhuang Lai, Xiaojun Tan.
+
+  *Collaborative feature transmission focusing on the specificity of HSI spectral channels and the complementarity of HSI and LiDAR spatial information.*  [🔗 Paper](https://ieeexplore.ieee.org/document/9698196/) [🔗 Code](https://github.com/Cimy-wang/AM3Net)
   
-- **[IEEE ICASSP '22]** **Spectral-spatial symmetrical aggregation cross-linking multi-modal data fusion network** | [🔗 Paper](https://ieeexplore.ieee.org/document/9747570/) |  🔄 *Code Holding*
+- **[IEEE ICASSP '22]** Spectral-spatial symmetrical aggregation cross-linking multi-modal data fusion network. **Jinping Wang**, Jun Li, Xiaojun Tan.
 
-  *Develops a SACLNet utilizing involution operations and pyramid feature fusion for robust multi-modal data classification.*
-  
+  *Develops a SACLNet utilizing involution operations and pyramid feature fusion for robust multi-modal data classification.*  [🔗 Paper](https://ieeexplore.ieee.org/document/9747570/)
 
-- **[Neurocomputing '22]** **ASPCNet: Deep adaptive spatial pattern capsule network for hyperspectral image classification** | [🔗 Paper](https://www.sciencedirect.com/science/article/pii/S092523122200220X) | [🔗 Code](https://github.com/Cimy-wang/ASPCNet) 
+- **[Neurocomputing '22]** ASPCNet: Deep adaptive spatial pattern capsule network for hyperspectral image classification. **Jinping Wang**, Xiaojun Tan, Jianhuang Lai, Jun Li.
 
-  *An adaptive spatial pattern capsule network architecture based on an enlarged, semantically-adaptive receptive field.*
+  *An adaptive spatial pattern capsule network architecture based on an enlarged, semantically-adaptive receptive field.*   [🔗 Paper](https://www.sciencedirect.com/science/article/pii/S092523122200220X)  [🔗 Code](https://github.com/Cimy-wang/ASPCNet)
+
 
 ### 2020 - 2021
-- **[Electronics '21]** **A simulated annealing algorithm and grid map-based UAV coverage path planning method for 3D reconstruction** | [🔗 Paper](https://www.mdpi.com/2079-9292/10/7/853) |  🔄 *Code Holding*
+- **[Electronics '21]** A simulated annealing algorithm and grid map-based UAV coverage path planning method for 3D reconstruction. Sichen Xiao, Xiaojun Tan, **Jinping Wang**.
 
-  *Proposes a UAV CPP framework considering both image overlapping and energy efficiency, validated through site experiments.*
+  *Proposes a UAV CPP framework considering both image overlapping and energy efficiency, validated through site experiments.*  [🔗 Paper](https://www.mdpi.com/2079-9292/10/7/853)
 
 ### 2018 - 2019
-- **[IEEE TGRS '19]** **Spatial density peak clustering for hyperspectral image classification with noisy labels** | [🔗 Paper](https://ieeexplore.ieee.org/document/8732685/) | [🔗 Code](https://github.com/xf-zh/Spatial-Density-Peak-Clustering-for-Hyperspectral-Image-Classification-with-Noisy-Labels)
+- **[IEEE TGRS '19]** Spatial density peak clustering for hyperspectral image classification with noisy labels. Bing Tu, Xiaofei Zhang, Xudong Kang, **Jinping Wang**, Jón Atli Benediktsson.
 
-  *Proposes a spatial density peak (SDP) clustering-based method to detect and handle mislabeled samples in HSI training sets.*
+  *Proposes a spatial density peak (SDP) clustering-based method to detect and handle mislabeled samples in HSI training sets.*   [🔗 Paper](https://ieeexplore.ieee.org/document/8732685/)  [🔗 Code](https://github.com/xf-zh/Spatial-Density-Peak-Clustering-for-Hyperspectral-Image-Classification-with-Noisy-Labels)
 
-- **[IEEE JSTARS '19]** **Texture pattern separation for hyperspectral image classification** | [🔗 Paper](https://ieeexplore.ieee.org/document/8846581/) | [🔗 Code](https://github.com/Cimy-wang/TPS_HSIC)
+- **[IEEE JSTARS '19]** Texture pattern separation for hyperspectral image classification. Bing Tu#, **Jinping Wang#**, Guoyun Zhang, Xiaofei Zhang, Wei He.
 
-  *Addresses the layer-separation problem in HSI via a novel TPS feature extraction method.*
-- **[IEEE JSTARS '18]** **KNN-based representation of superpixels for hyperspectral image classification** | [🔗 Paper](https://ieeexplore.ieee.org/document/8515116/) | [🔗 Code](https://github.com/Cimy-wang/KNN-based-Representation-of-Superpixels-for-hyperspectral-image-classification)
+  *Addresses the layer-separation problem in HSI via a novel TPS feature extraction method.*  [🔗 Paper](https://ieeexplore.ieee.org/document/8846581/)  [🔗 Code](https://github.com/Cimy-wang/TPS_HSIC)
 
-  *Explores optimal representations of superpixels using two k-selection rules to find the most representative samples.*
-- **[IEEE GRSL '18]** **Hyperspectral image classification via fusing correlation coefficient and joint sparse representation** | [🔗 Paper](https://ieeexplore.ieee.org/document/8268655/) | [🔗 Code](https://github.com/xf-zh/Hyperspectral-Image-Classification-via-Fusing-Correlation-Coefficient-and-Joint-Sparse-Representatio)
+- **[IEEE JSTARS '18]** KNN-based representation of superpixels for hyperspectral image classification. Bing Tu#, **Jinping Wang#**, Xudong Kang, Guoyun Zhang, Xianfeng Ou, Longyuan Guo.
 
-  *A hyperspectral image classification method via fusing correlation coefficient and joint sparse representation.*
+  *Explores optimal representations of superpixels using two k-selection rules to find the most representative samples.* [🔗 Paper](https://ieeexplore.ieee.org/document/8515116/)  [🔗 Code](https://github.com/Cimy-wang/KNN-based-Representation-of-Superpixels-for-hyperspectral-image-classification)
+
+- **[IEEE GRSL '18]** Hyperspectral image classification via fusing correlation coefficient and joint sparse representation. Bing Tu, Xiaofei Zhang, Xudong Kang, Guoyun Zhang, **Jinping Wang**, Jianhui Wu.
+
+  *A hyperspectral image classification method via fusing correlation coefficient and joint sparse representation.* [🔗 Paper](https://ieeexplore.ieee.org/document/8268655/)  [🔗 Code](https://github.com/xf-zh/Hyperspectral-Image-Classification-via-Fusing-Correlation-Coefficient-and-Joint-Sparse-Representatio)
 
 ---
 
