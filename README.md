@@ -9,6 +9,7 @@ School of Computer Science, Guangdong Polytechnic Normal University
 [![Institutional Email](https://img.shields.io/badge/Institutional_Email-wangjp@gpnu.edu.cn-red?style=flat&logo=minutemailer)](mailto:wangjp@gpnu.edu.cn)
 [![Personal Email](https://img.shields.io/badge/Personal_Email-jinping_wang@foxmail.com-yellow?style=flat&logo=gmail)](mailto:jinping_wang@foxmail.com)
 [![Citations](https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DsYT7hPwAAAAJ&color=blue)](https://scholar.google.com/citations?user=sYT7hPwAAAAJ)
+![Visitors](http://views.whatilearened.today/views/github/Cimy-wang/views.svg)
 
 <div align="center">
   <img alt="GIF"
