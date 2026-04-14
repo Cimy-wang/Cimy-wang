@@ -33,9 +33,9 @@ I maintain active and long‑term scientific collaborations with researchers fro
 *Note: My research philosophy strongly supports open science. Datasets and codebases associated with my publications are made publicly available where possible. For a comprehensive and up-to-date list of my publications, please refer to my **[Google Scholar Profile](https://scholar.google.com/citations?hl=zh-CN&user=sYT7hPwAAAAJ&view_op=list_works&sortby=pubdate)**.*
 
 ### 2026
-- [**CVPR '26**] SceneBench: Evaluating and Enhancing Long Video Understanding via Scene-Level Context. Seng Nam Chen, Hao Chen, Chenglam Ho, Xinyu Mao, **Jinping Wang,** Yu Zhang, Chao Li.
+- [**CVPR '26**] Seeing the Scene Matters: Revealing Forgetting in Video Understanding Models with a Scene-Aware Long-Video Benchmark. Seng Nam Chen, Hao Chen, Chenglam Ho, Xinyu Mao, **Jinping Wang,** Yu Zhang, Chao Li.
  
-  *Introduces SceneBench to evaluate scene-level long video understanding in VLMs, and proposes Scene-RAG to effectively mitigate long-context forgetting via dynamic scene memory.* [🔗 Paper](https://openreview.net/forum?id=ie5Weh1yN7) 
+  *Introduces SceneBench to evaluate scene-level long video understanding in VLMs, and proposes Scene-RAG to effectively mitigate long-context forgetting via dynamic scene memory.* [🔗 Paper](https://arxiv.org/abs/2603.27259) 
 
 - **[IEEE TMM '26]** Cognidrive: Cognitive Autonomous Driving Understanding with Multistep Multimodal Chain-of-Thought Reasoning. Xiangyi Qin, Xiaofei Zhang, Shuai Wang, Yuzhen Wei, **Jinping Wang\***, Xiaojun Tan.
 
