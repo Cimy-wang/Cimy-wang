@@ -115,9 +115,9 @@ Yining Li#, **Jinping Wang#**, Xiangyi Qin, Ying Shen, Zhengping Fan, Xiaojun Ta
 ## 🏫 Courses
 
 
-- 人工智能基础
-- 计算机网络
-- 人工智能与信息社会
+- Fundamentals of Artificial Intelligence
+- Computer Networks
+- Artificial Intelligence and the Information Society
 
 ---
 
