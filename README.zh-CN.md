@@ -2,7 +2,7 @@
 
 [English](./README.md) | [中文](./README.zh-CN.md)
 
-**讲师 | 多模态数据融合、计算机视觉、** | 广东技术师范大学人工智能学院
+**讲师 | 多模态数据融合、计算机视觉** | 广东技术师范大学人工智能学院
 
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?style=flat&logo=google-scholar)](https://scholar.google.com/citations?hl=zh-CN&user=sYT7hPwAAAAJ&view_op=list_works&sortby=pubdate)
