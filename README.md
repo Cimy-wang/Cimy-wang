@@ -31,7 +31,6 @@ School of Computing and Artificial Intelligence, Guangdong Polytechnic Normal Un
   <img alt="Open Source: 1" src="https://img.shields.io/badge/Open%20Source-1-475467?style=flat-square" />
 </p>
 
-<p align="center"><em>Automatically updated from this page by GitHub Actions.</em></p>
 <!-- PROFILE-STATS:END -->
 
 ---
