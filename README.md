@@ -185,7 +185,10 @@ Yining Li#, **Jinping Wang#**, Xiangyi Qin, Ying Shen, Zhengping Fan, Xiaojun Ta
 - **[Cimy_PPtools](https://github.com/Cimy-wang/Cimy_PPtools)**: A comprehensive Python toolbox designed for data preprocessing in hyperspectral classification and fusion tasks, supporting model serialization and result visualization.
 
 **Core Technical Stack:**
-`Python` | `MATLAB` | `Shell` | `LaTeX`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logo=mathworks&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ---
 *✉️ Open to scientific cooperation and academic inquiries. Please feel free to reach out.*
