@@ -1,7 +1,9 @@
 # Jinping (Cimy) Wang, Ph.D.
 
+[English](./README.md) | [中文](./README.zh-CN.md)
+
 **Lecturer | Researcher in Multimodal Data Fusion**
-School of Computer Science, Guangdong Polytechnic Normal University
+School of Computing and Artificial Intelligence, Guangdong Polytechnic Normal University
 
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?style=flat&logo=google-scholar)](https://scholar.google.com/citations?hl=zh-CN&user=sYT7hPwAAAAJ&view_op=list_works&sortby=pubdate)
@@ -16,15 +18,41 @@ School of Computer Science, Guangdong Polytechnic Normal University
        src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 </div>
 
+<!-- PROFILE-STATS:START -->
+## 📊 Profile at a Glance
+
+<p align="center">
+  <img alt="Publications: 16" src="https://img.shields.io/badge/Publications-16-2F80ED?style=flat-square" />
+  <img alt="Projects: 5" src="https://img.shields.io/badge/Projects-5-059669?style=flat-square" />
+  <img alt="Patents: 4" src="https://img.shields.io/badge/Patents-4-EA580C?style=flat-square" />
+  <img alt="Software Copyrights: 2" src="https://img.shields.io/badge/Software%20Copyrights-2-7C3AED?style=flat-square" />
+  <img alt="Student Awards: 11" src="https://img.shields.io/badge/Student%20Awards-11-CA8A04?style=flat-square" />
+  <img alt="Courses: 3" src="https://img.shields.io/badge/Courses-3-0F766E?style=flat-square" />
+  <img alt="Open Source: 1" src="https://img.shields.io/badge/Open%20Source-1-475467?style=flat-square" />
+</p>
+
+<p align="center"><em>Automatically updated from this page by GitHub Actions.</em></p>
+<!-- PROFILE-STATS:END -->
+
 ---
 
 ## 🏛️ Biography
 
-I am currently a Lecturer at the School of Computer Science, **Guangdong Polytechnic Normal University**. I received my Ph.D. degree in Electronics Information from **Sun Yat-sen University**. 
+I am currently a Lecturer at the School of Computing and Artificial Intelligence, **Guangdong Polytechnic Normal University**. I received my Ph.D. degree in Electronics Information from **Sun Yat-sen University**. 
 
-My primary research interests lie at the intersection of **Computer Vision** and **Multimodal Data Fusion**, with specific applications deployed in **autonomous driving, remote sensing, and vehicle-infrastructure cooperation (V2X)**. I am dedicated to developing robust perception systems for complex, real-world open traffic scenarios.
+My primary research interests lie at the intersection of **Computer Vision** and **Multimodal Data Fusion**, with specific applications deployed in **embodied AI, vehicle-infrastructure cooperation (V2X), and remote sensing**. I am dedicated to developing robust perception systems for complex and real-world open scenarios.
 
-I maintain active and long‑term scientific collaborations with researchers from *Sun Yat-sen University*, the *University of Cambridge*, *Peng Cheng Laboratory*, and *Robert Gordon University*.
+I maintain active and long‑term scientific collaborations with researchers from *Sun Yat-sen University*, the *University of Cambridge*, and *Peng Cheng Laboratory*.
+
+---
+
+## 📌 Research Projects as Principal Investigator
+
+- **Research on Roadside Multi-View 3D Cooperative Perception under Joint Environmental Noise and Communication Constraints**, National Natural Science Foundation of China Young Scientists Fund, 2027–2029.
+- **Research on an Electricity Inspection Health Diagnosis Model Based on a VAE–Transformer Architecture**, enterprise-commissioned project, Jul. 2026–Dec. 2026.
+- **Industrial Dynamic Visual Tracking Algorithm Software**, enterprise-commissioned project, Jun. 2025–Oct. 2025.
+- **Research on Multimodal Heterogeneous Feature Fusion and Key Technologies**, special research project, Oct. 2024–Oct. 2025.
+- **Deep Spatial–Spectral Feature Extraction for Hyperspectral Remote Sensing Images and Dynamic Monitoring of Dongting Lake Waters**, Hunan Provincial Key Graduate Student Project, 2018.
 
 ---
 
@@ -35,11 +63,11 @@ I maintain active and long‑term scientific collaborations with researchers fro
 ### 2026
 - [**CVPR '26** <span style="color:red;font-weight:bold">🏆 Highlight</span>] Seeing the Scene Matters: Revealing Forgetting in Video Understanding Models with a Scene-Aware Long-Video Benchmark. Seng Nam Chen, Hao Chen, Chenglam Ho, Xinyu Mao, **Jinping Wang,** Yu Zhang, Chao Li.
  
-  *Introduces SceneBench to evaluate scene-level long video understanding in VLMs, and proposes Scene-RAG to effectively mitigate long-context forgetting via dynamic scene memory.* [🔗 Paper](https://arxiv.org/abs/2603.27259) 
+  *Introduces SceneBench to evaluate scene-level long video understanding in VLMs, and proposes Scene-RAG to effectively mitigate long-context forgetting via dynamic scene memory.* [🔗 Paper](https://arxiv.org/abs/2603.27259) [🔗 Dataset & Code](https://huggingface.co/datasets/SinerChen/SceneBench) 
 
 - **[IEEE TMM '26]** Cognidrive: Cognitive Autonomous Driving Understanding with Multistep Multimodal Chain-of-Thought Reasoning. Xiangyi Qin, Xiaofei Zhang, Shuai Wang, Yuzhen Wei, **Jinping Wang\***, Xiaojun Tan.
 
-  *A large-scale dataset featuring multi-position LiDARs in a real-world setting, addressing occlusion challenges within I2I perception systems.* 📖 *Accepted*
+  *Introduces a multistep multimodal chain-of-thought reasoning framework that integrates environmental perception, semantic understanding, and decision-making to enhance the cognitive capabilities and interpretability of autonomous driving systems.* 📖 [🔗 Paper](https://ieeexplore.ieee.org/abstract/document/11548610/) 
 
 - **[Information Fusion '26]** Inscope: A new real-world 3d infrastructure-side collaborative perception dataset for open traffic scenarios, Xiaofei Zhang#, 
 Yining Li#, **Jinping Wang#**, Xiangyi Qin, Ying Shen, Zhengping Fan, Xiaojun Tan
@@ -106,6 +134,22 @@ Yining Li#, **Jinping Wang#**, Xiangyi Qin, Ying Shen, Zhengping Fan, Xiaojun Ta
 
 ---
 
+## 💡 Intellectual Property (*First Inventor*)
+
+### Invention Patents
+
+1. *Image Classification Method and System Using a Deep Capsule Network Based on Adaptive Spatial Patterns*. Patent No. CN112766340B, Jun. 4, 2024. *(Granted)*
+2. *Few-Shot Remote Sensing World Model for Multimodal Data Fusion*. Patent Application No. 202510038010.2, Jan. 10, 2025. *(Application Accepted)*
+3. *Cross-Domain Masked Autoencoder Method and System for Multimodal Data Fusion*. Patent Application No. 202510960900.9, Jul. 12, 2025. *(Application Accepted)*
+4. *Feature-Adaptive Mutual-Guidance Method and System for Multi-Source Information Fusion and Classification*. Patent No. CN114187526B, Apr. 29, 2025. *(Granted)*
+
+### Software Copyrights
+
+1. **Multimodal Remote Sensing Image Processing System**. Software Copyright Registration No. 2025R11L0356652, Mar. 10, 2025.
+2. **Deep Learning-Based Waste Classification and Recognition System**. Software Copyright Registration No. 2025SR1736527, Sep. 9, 2025.
+
+---
+
 ## 🔎 Professional Services
 
 - Reviewer for `IEEE TMM`, `IEEE TCSVT`, `IEEE TGRS`, `IEEE JSTARS`, `Knowledge-Based Systems (KBS)`, `CVPR`, and `IEEE TIM`.
@@ -118,6 +162,22 @@ Yining Li#, **Jinping Wang#**, Xiangyi Qin, Ying Shen, Zhengping Fan, Xiaojun Ta
 - Fundamentals of Artificial Intelligence
 - Computer Networks
 - Artificial Intelligence and the Information Society
+
+## 🏆 Student Awards
+
+| Year | Competition | Award |
+| --- | --- | --- |
+| 2025 | Lanqiao Cup (Python Group B) | Provincial / Second Prize |
+| 2025 | Future Cup Big Data Challenge | National / Third Prize |
+| 2025 | MathorCup Mathematical Modeling Challenge (Freight Volume Forecasting) | National / Successful Participant |
+| 2025 | Chinese Society for Electrical Engineering Cup | National / Successful Participant |
+| 2025 | Shuwei Cup Mathematical Modeling Challenge (Spring) | National / Second Prize |
+| 2025 | APMCM Asia-Pacific Mathematical Contest in Modeling (Chinese Contest) | National / Third Prize |
+| 2025 | National College Student Simulation Modeling Challenge | National / Second Prize |
+| 2025 | Shuwei Cup Mathematical Modeling Challenge (Autumn) | National / First Prize |
+| 2024 | Mathematical Contest in Modeling (MCM) | International / Successful Participant |
+| 2024 | MathorCup Big Data Competition | National / Successful Participant |
+| 2024 | APMCM Asia-Pacific Mathematical Contest in Modeling (Pet Industry) | National / Third Prize |
 
 ---
 
