@@ -184,7 +184,9 @@ Yining Li#, **Jinping Wang#**, Xiangyi Qin, Ying Shen, Zhengping Fan, Xiaojun Ta
 - **[Cimy_PPtools](https://github.com/Cimy-wang/Cimy_PPtools)**：面向高光谱分类与融合任务的综合 Python 工具箱，支持数据预处理、模型序列化和结果可视化。
 
 **核心技术栈：**
-`Python` | `MATLAB` | `Shell` | `LaTeX`
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logo=mathworks&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ---
 *✉️ 欢迎开展科研合作与学术交流，敬请联系。*
