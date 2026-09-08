@@ -2,7 +2,7 @@
 
 [English](./README.md) | [中文](./README.zh-CN.md)
 
-**讲师 | 多模态数据融合、计算机视觉** | 广东技术师范大学人工智能学院
+**讲师 | 多模态数据融合、计算机视觉、** | 广东技术师范大学人工智能学院
 
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?style=flat&logo=google-scholar)](https://scholar.google.com/citations?hl=zh-CN&user=sYT7hPwAAAAJ&view_op=list_works&sortby=pubdate)
@@ -22,7 +22,7 @@
 
 <p align="center">
   <img alt="论文: 16" src="https://img.shields.io/badge/%E8%AE%BA%E6%96%87-16-2F80ED?style=flat-square" />
-  <img alt="主持项目: 5" src="https://img.shields.io/badge/%E4%B8%BB%E6%8C%81%E9%A1%B9%E7%9B%AE-5-059669?style=flat-square" />
+  <img alt="主持项目: 6" src="https://img.shields.io/badge/%E4%B8%BB%E6%8C%81%E9%A1%B9%E7%9B%AE-6-059669?style=flat-square" />
   <img alt="发明专利: 4" src="https://img.shields.io/badge/%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9-4-EA580C?style=flat-square" />
   <img alt="软件著作权: 2" src="https://img.shields.io/badge/%E8%BD%AF%E4%BB%B6%E8%91%97%E4%BD%9C%E6%9D%83-2-7C3AED?style=flat-square" />
   <img alt="学生获奖: 11" src="https://img.shields.io/badge/%E5%AD%A6%E7%94%9F%E8%8E%B7%E5%A5%96-11-CA8A04?style=flat-square" />
@@ -30,6 +30,7 @@
   <img alt="开源工具: 1" src="https://img.shields.io/badge/%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7-1-475467?style=flat-square" />
 </p>
 
+<p align="center"><em>由 GitHub Actions 根据本页内容自动更新。</em></p>
 <!-- PROFILE-STATS:END -->
 
 ---
@@ -46,11 +47,12 @@
 
 ## 📌 主持项目
 
-- **环境噪声与通信受限共扰下的路侧多视角三维协同感知方法研究**，国家自然科学基金青年科学基金项目（2027–2029）
+- **环境噪声与通信受限共扰下的路侧多视角三维协同感知方法研究**，国家自然科学基金青年科学基金项目（2027.1–2029.12）
+- **多智能体协同可信自主感知算法研究**，专项科研项目（2027.1–2027.12）
 - **基于 VAE+Transformer 结构的用电检查健康诊断模型研究**，企业委托（2026.7–2026.12）
 - **工业动态视觉追踪算法软件**，企业委托（2025.6–2025.10）
 - **多模态异构特征融合及关键技术研究**，专项科研项目（2024.10-2025.10）
-- **高光谱遥感图像深层空谱特征提取方法及洞庭湖水域动态监测研究**，湖南省研究生重点项目（2018）
+- **高光谱遥感图像深层空谱特征提取方法及洞庭湖水域动态监测研究**，湖南省研究生重点项目（2018.1-2018.12）
 
 ---
 
@@ -184,9 +186,7 @@ Yining Li#, **Jinping Wang#**, Xiangyi Qin, Ying Shen, Zhengping Fan, Xiaojun Ta
 - **[Cimy_PPtools](https://github.com/Cimy-wang/Cimy_PPtools)**：面向高光谱分类与融合任务的综合 Python 工具箱，支持数据预处理、模型序列化和结果可视化。
 
 **核心技术栈：**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logo=mathworks&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+`Python` | `MATLAB` | `Shell` | `LaTeX`
+
 ---
 *✉️ 欢迎开展科研合作与学术交流，敬请联系。*
