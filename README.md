@@ -47,11 +47,12 @@ I maintain active and long‑term scientific collaborations with researchers fro
 
 ## 📌 Research Projects as Principal Investigator
 
-- **Research on Roadside Multi-View 3D Cooperative Perception under Joint Environmental Noise and Communication Constraints**, National Natural Science Foundation of China Young Scientists Fund, 2027–2029.
-- **Research on an Electricity Inspection Health Diagnosis Model Based on a VAE–Transformer Architecture**, enterprise-commissioned project, Jul. 2026–Dec. 2026.
-- **Industrial Dynamic Visual Tracking Algorithm Software**, enterprise-commissioned project, Jun. 2025–Oct. 2025.
-- **Research on Multimodal Heterogeneous Feature Fusion and Key Technologies**, special research project, Oct. 2024–Oct. 2025.
-- **Deep Spatial–Spectral Feature Extraction for Hyperspectral Remote Sensing Images and Dynamic Monitoring of Dongting Lake Waters**, Hunan Provincial Key Graduate Student Project, 2018.
+- Research on Roadside Multi-View 3D Cooperative Perception under Joint Environmental Noise and Communication Constraints, National Natural Science Foundation, Jan. 2027 – Dec. 2029.
+- Research on Multi-Agent Collaborative Trustworthy Autonomous Perception Algorithms, Special Research Program, Jan. 2027 – Dec. 2027.
+- Research on an Electricity Inspection Health Diagnosis Model Based on a VAE–Transformer Architecture, Commissioned Research Project, Jul. 2026 – Dec. 2026.
+- Industrial Dynamic Visual Tracking Algorithm Software, Commissioned Research Project, Jun. 2025–Oct. 2025.
+- Research on Multimodal Heterogeneous Feature Fusion and Key Technologies, Special Research Program, Oct. 2024–Oct. 2025.
+- Deep Spatial–Spectral Feature Extraction for Hyperspectral Remote Sensing Images and Dynamic Monitoring of Dongting Lake Waters, Hunan Provincial Key Graduate Student Project, Jan. 2018 - Dec. 2018.
 
 ---
 
